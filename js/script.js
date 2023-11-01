@@ -27,6 +27,7 @@ function menu(){
             break
             case 6: bandera = false
             break
+            
             default : alert("Seleccione una opcion valida")
             break
         }
